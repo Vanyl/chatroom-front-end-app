@@ -1,0 +1,34 @@
+function App() {
+
+
+  return (
+    <>
+      <Wrapper>
+        <H1>Styled Components</H1>
+        <p>Cillum culpa deserunt enim et eiusmod quis proident consequat tempor ipsum sunt esse.</p>
+        <DefaultButton>Click ME!</DefaultButton>
+        <ExtendedButton red>Click ME!</ExtendedButton >
+        <Login/>
+        <Register/>
+      </Wrapper>
+    </>
+  )
+}
+
+const Register = () => {
+    return (
+        <div className="register">
+            <form id="registerform" action="">
+                <label htmlFor="email">Email</label>
+                <input type="text" id="email" name="email" />
+                <label htmlFor="nickname">Nickname</label>
+                <input type="text" id="nickname" name="nickname" />
+                <label htmlFor="password">Password</label>
+                <input type="password" id="password" name="password" />
+                <input type="submit" value="Register" />
+            </form>
+        </div>
+    );
+}
+
+export default Register;
