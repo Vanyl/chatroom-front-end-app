@@ -14,4 +14,4 @@ What's left to do ? The struggles ?
 
 - connecting front-end and back-end
 - create routes
-- the chat roomchat
+- the roomchat
