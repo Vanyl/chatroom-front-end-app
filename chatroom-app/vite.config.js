@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/lokkeroom-project/chatroom-front-end-app/',
+  // base: '/lokkeroom-project/chatroom-front-end-app/',
+  base: '/chatroom-front-end-app/',
   plugins: [react()],
 })
