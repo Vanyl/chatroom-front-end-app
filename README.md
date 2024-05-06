@@ -1,7 +1,7 @@
 # chatroom-front-end-app
 
 # Welcome to the Chat Room!
-> [Chat Room App](https://vanyl.github.io/chatroom-front-end-app/)
+> [Chat Room App](https://vanyl.github.io/chatroom-app/)
 
 ## Where I am ?
 
