@@ -2,7 +2,7 @@
   "name": "chatroom-app",
   "private": true,
   "version": "0.0.0",
-  "homepage" : "https://vanyl.github.io/chatroom-front-end-app/"
+  "homepage" : "https://vanyl.github.io/chatroom-front-end-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
